@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hezron99
-- 👀 I’m currently interested in creating web application, mobile application, software development
-- 🌱 I’m currently learning advance programming language such as php,js, and python
+- 👋 Hi, I’m Hezron Misagal
+- 👀 I’m interested in creating web application, mobile application, software development
+- 🌱 I’m currently Interested and learning new advance technology such as machine learning, blockchain, Progressive Web Apps (PWA)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just email me , hezronmmisagal@gmail.com
 
